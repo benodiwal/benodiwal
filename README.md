@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 -->
 
 ##  📊 Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=benodiwal&theme=dark&hide_border=true&background=1B1B1B&stroke=FFFFFF&fire=FFFFFF&ring=FFFFFF&dates=C1C1C1&currStreakLabel=E2E2E2&currStreakNum=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=benodiwal&theme=dark&hide_border=true&background=1B1B1B&stroke=FFFFFF&fire=FFFFFF&ring=FFFFFF&dates=C1C1C1&currStreakLabel=E2E2E2&currStreakNum=FFFFFF)](https://git.io/streak-stats)  
+
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=benodiwal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />  
 
 ## 📡 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/sachin-beniwal-7537b6256/)
