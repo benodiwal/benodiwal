@@ -28,8 +28,3 @@ Here are some ideas to get you started:
 - [LinkedIn](https://www.linkedin.com/in/sachin-beniwal-7537b6256/)
 - [Email](mailto:sachinbeniwal0101@gmail.com)
 - [Twitter](https://x.com/benodiwal)
-
-## 🎵 Listening to
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31t7a6c7smng3tfik5bfbkx3ailq&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t7a6c7smng3tfik5bfbkx3ailq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="200">
-</a>
