@@ -1,33 +1,21 @@
-## Hi there, I'm Sachin 👋🤗
+### Sachin
 
-- Currently studying my first year at Scaler School Of Technology
+I am a:
+- Software Developer
+- First year computer science student at `Scaler School of Technology`
 
-#### [🌐 Check Out My Portfolio](https://terminal-six-eta.vercel.app/)
+Portfolio: [Terminal](https://terminal-six-eta.vercel.app/) | [3D](https://sachin-3d-portfolio.netlify.app/)
 
-Oh, this one too:
-[😅 3D-Portfolio](https://sachin-3d-portfolio.netlify.app/)
+#### Contact Information:
+- Email: `sachinbeniwal0101 <at> gmail.com`
+- Twitter: `benodiwal`
 
-<!--
-**benodiwal/benodiwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Projects:
 
-Here are some ideas to get you started:
+- Mechanical keyboard sound simulator: [clackit](https://github.com/benodiwal/clackit)
+- Secure Go session handler library: [go-cuddle](https://github.com/benodiwal/go-cuddle)
+- GPT-3 powered CLI generator: [cognito](https://github.com/benodiwal/cognito)
+- A Neovim Plugin: [pluto](https://github.com/benodiwal/pluto)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-##  📊 Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=benodiwal&theme=dark&hide_border=true&background=1B1B1B&stroke=FFFFFF&fire=FFFFFF&ring=FFFFFF&dates=C1C1C1&currStreakLabel=E2E2E2&currStreakNum=FFFFFF)](https://git.io/streak-stats)  
-
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=benodiwal&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />  
-
-## 📡 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/sachin-beniwal-7537b6256/)
-- [Email](mailto:sachinbeniwal0101@gmail.com)
-- [Twitter](https://x.com/benodiwal)
+⚡ I love terminal!
