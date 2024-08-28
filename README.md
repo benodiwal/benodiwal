@@ -2,7 +2,6 @@
 
 I am a:
 - Software Developer
-- Founding Intern at `Hashed Tokens`
 - First year computer science student at `Scaler School of Technology`
 
 Portfolio: [Terminal](https://terminal-six-eta.vercel.app/) | [3D](https://sachin-3d-portfolio.netlify.app/)
