@@ -3,7 +3,7 @@
 I am a:
 - Software Developer
 
-Portfolio: [Terminal](https://terminal-six-eta.vercel.app/) | [3D](https://sachin-3d-portfolio.netlify.app/) | [Notion](https://www.notion.so/Projects-Porfolio-fbe6e1d74eb14f928e7825481b78fd45)
+Portfolio: [Terminal](https://terminal-six-eta.vercel.app/) | [Notion](https://www.notion.so/Projects-Porfolio-fbe6e1d74eb14f928e7825481b78fd45)
 
 #### Contact Information:
 - Email: `sachinbeniwal0101 <at> gmail.com`
