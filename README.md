@@ -7,7 +7,7 @@ Portfolio: [Terminal](https://terminal-six-eta.vercel.app/) | [Notion](https://w
 
 #### Contact Information:
 - Email: `sachinbeniwal0101 <at> gmail.com`
-- Twitter: `benodiwal`
+- Twitter: `ban___tan`
 
 #### Projects:
 
