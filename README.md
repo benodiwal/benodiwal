@@ -11,10 +11,9 @@ Portfolio: [Terminal](https://terminal-six-eta.vercel.app/) | [Notion](https://w
 
 #### Projects:
 
+- Bitcoin transaction validation and block construction engine: [BitMiner](https://github.com/benodiwal/BitMiner)
 - Mechanical keyboard sound simulator: [clackit](https://github.com/benodiwal/clackit)
 - Secure Go session handler library: [go-cuddle](https://github.com/benodiwal/go-cuddle)
-- GPT-3 powered CLI generator: [cognito](https://github.com/benodiwal/cognito)
-- A Neovim Plugin: [pluto](https://github.com/benodiwal/pluto)
-
+- Clipboard Plugin for Neovim: [pluto](https://github.com/benodiwal/pluto)
 
 ⚡ I love terminal!
