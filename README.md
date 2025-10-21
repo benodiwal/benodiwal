@@ -1,7 +1,6 @@
 ### Sachin
 
-I am a:
-- Software Developer
+- I am a Software Developer
 - Here's [Me](https://benodiwal.vercel.app)
 
 #### Contact Information:
