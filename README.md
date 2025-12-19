@@ -1,7 +1,6 @@
 ### Sachin
 
-- I am a Software Developer
-- Here's [Me](https://www.heysachin.com)
+Here's [Me](https://www.heysachin.com)
 
 #### Contact Information:
 - Email: `sachinbeniwal0101 <at> gmail.com`
